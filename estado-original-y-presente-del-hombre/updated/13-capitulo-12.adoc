@@ -5,6 +5,7 @@ advertencia en contra de las posiciones corruptas y peligrosas,
 que algunos han declarado públicamente acerca de la verdadera justicia
 y santificación. Muchos han enseñado abiertamente o dado a entender:
 
+[.numbered]
 1+++.+++ Que el hombre, que en realidad es injusto en sí mismo,
 es al mismo tiempo justo en Cristo.
 Es decir, que él no es en realidad lo que es, sino lo que se convence a sí mismo ser,
@@ -13,12 +14,15 @@ Estos son como aquella "`generación que es pura en sus propios ojos,
 más nunca ha sido lavada de su inmundicia.`"^
 footnote:[Proverbios 30:12]
 
+[.numbered]
 2+++.+++ Que el Ser supremo de la verdad inmutable mira al hombre con una luz falsa,
 estimándolo puro, mientras Él sabe que es pecador y que está corrompido.
 
+[.numbered]
 3+++.+++ Que Cristo, la Verdad, es algo así como un medio falso,
 que muestra los estados de los hombres de manera contraria a lo que realmente son.
 
+[.numbered]
 4+++.+++ Que el hombre puede ser un siervo de Cristo mientras
 está bajo la influencia del anticristo;
 que es santo por imputación,
@@ -153,8 +157,8 @@ y la producción de toda virtud cristiana.
 
 El hombre, al continuar en esta fe,
 echa mano de la esperanza del evangelio--un evangelio
-descrito por los textos evangélicos y apostólicos,
-pero definido y experimentado como el "`poder de Dios para salvación.`"^
+_descrito_ por los textos evangélicos y apostólicos,
+pero _definido_ y _experimentado_ como el "`poder de Dios para salvación.`"^
 footnote:[Romanos 1:16]
 De hecho, Cristo mismo es llamado el "`poder de Dios,`"^
 footnote:[1 Corintios 1:24]
@@ -190,8 +194,8 @@ de vida en los corazones de los hombres.
 "`Sobre toda cosa guardada, guarda tu corazón;`" dice el hombre sabio,
 "`porque de él mana la vida.`"^
 footnote:[Proverbios 4:23]
-Ahora, estas emanaciones de vida surgen en el corazón del hombre,
-pero no desde el corazón mismo; porque si fuera así,
+Ahora, estas emanaciones de vida surgen _en_ el corazón del hombre,
+pero no _desde_ el corazón mismo; porque si fuera así,
 el corazón o el alma serían su propio vivificador y salvador.
 Pero sólo Cristo es "`el Camino, y la Verdad, y la Vida,`"^
 footnote:[Juan 14:6]
