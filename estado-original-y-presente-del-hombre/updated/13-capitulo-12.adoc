@@ -5,6 +5,9 @@ advertencia en contra de las posiciones corruptas y peligrosas,
 que algunos han declarado públicamente acerca de la verdadera justicia
 y santificación. Muchos han enseñado abiertamente o dado a entender:
 
+[.numbered-group]
+====
+
 [.numbered]
 1+++.+++ Que el hombre, que en realidad es injusto en sí mismo,
 es al mismo tiempo justo en Cristo.
@@ -29,6 +32,8 @@ que es santo por imputación,
 incluso cuando es gobernado por el autor de la contaminación,
 el adversario de la santidad;
 y que está actuando en la voluntad de Dios mientras que hace las obras del diablo.
+
+====
 
 Muy por el contrario,
 leemos "`¿No sabéis que si os sometéis a alguien como esclavos para obedecerle,
