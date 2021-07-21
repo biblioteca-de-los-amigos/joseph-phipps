@@ -20,7 +20,7 @@ Esta Edición de [.book-title]#El Estado Original y Presente del Hombre#,
 es un intento de conservar y modernizar cuidadosamente
 las partes doctrinales principales de la obra original,
 y al mismo tiempo remover una multitud de citas e intercambios
-prolongados y innecesarios entre los dos autores.
+prolongados e innecesarios entre los dos autores.
 Debido a que gran parte de la publicación original de Phipps fue escrita
 en forma de una refutación punto por punto de las criticas de Newton,
 me he tomado libertades significativas en la edición y organización del material,
