@@ -3,18 +3,19 @@
 En 1767, Samuel Newton publicó un libro que promovía muchas
 opiniones críticas hacia la Sociedad de los Amigos,
 y más particularmente,
-que atacaba los principios propuestos en La Apología de la Verdadera Teología Cristiana,
+que atacaba los principios propuestos en [.book-title]#La Apología
+de la Verdadera Teología Cristiana,#
 de Robert Barclay.
 En respuesta a esta publicación, Joseph Phipps tomó la pluma en 1773,
 para limpiar la Sociedad de muchos cargos injustos y falsos,
 y para defender las verdades del evangelio tal como
 fueron establecidas por los primeros Amigos.
-Su refutación, la cual tituló El Estado Original y Presente del Hombre,
-fue exhaustiva y convincente,
+Su refutación, la cual tituló [.book-title]#El Estado Original y Presente
+del Hombre,# fue exhaustiva y convincente,
 aclarando muchos de los principios más importantes de los Cuáqueros,
 y exponiendo y contrarrestando los diversos errores de su oponente.
 
-Esta Edición de El Estado Original y Presente del Hombre,
+Esta Edición de [.book-title]#El Estado Original y Presente del Hombre,#
 es un intento de conservar y modernizar cuidadosamente
 las principales partes doctrinales de la obra original,
 y al mismo tiempo,
@@ -24,9 +25,11 @@ Debido a que gran parte de la publicación original de Phipps,
 fue escrita en forma de refutación punto por punto de las críticas de Newton,
 me he tomado libertades significativas en la edición y organización del material,
 para que sus argumentos se presenten de manera fiel y clara al lector moderno.
-La versión original está disponible en La Biblioteca de los Amigos ("`Friends Library`"),
+La versión original está disponible en _La Biblioteca de los Amigos_ ("`_Friends Library_`"),
 volumen 10.
 
+[.signed-section-signature]
 Jason Henderson
 
+[.signed-section-context-close]
 Octubre 2016

@@ -1,5 +1,6 @@
 == Capítulo 14. El Espíritu, el Evangelio y el Reino
 
+[.alt]
 === Con Respecto al Espíritu
 
 Creemos que todos los hombres, en algún momento,
@@ -32,7 +33,7 @@ aunque todavía no estaba dotado con el verdadero conocimiento salvador de ella.
 
 Siempre hemos reconocido unánimemente,
 con la misma firmeza que cualquier otro profesante del cristianismo puede hacerlo,
-que el evangelio vino tanto en palabra como en poder; pero no en palabras solamente,
+que el evangelio vino tanto en palabra como en poder; pero no en palabras _solamente,_
 sino también en poder, es decir, en el poder del Espíritu Santo.
 Y somos conscientes de que este poder divino, del cual brotaron las palabras,
 es la esencia misma del evangelio, y que las palabras son sólo la expresión externa,
@@ -54,7 +55,7 @@ porque en ese día Él determinará el estado final
 de los justos y de los injustos--es decir,
 no sólo para salvación,
 sino también para condenación. Pero esta segunda aparición
-es para salvar a los que le esperan con ese fin.
+es _para salvar_ a los que le esperan con ese fin.
 En consecuencia, el apóstol ora de esta manera por los creyentes:
 "`El Señor enderece vuestros corazones en el amor de Dios,
 y en la paciente expectación de Cristo.`"^
@@ -187,6 +188,7 @@ En todos estos aspectos, el Espíritu Santo operó poderosamente en los primeros
 y sostenemos que estas mismas operaciones espirituales
 son necesarias en esta y en toda generación.
 
+[.alt]
 === Con Respecto al Evangelio
 
 Reconocemos que la palabra evangelio, en su más amplio sentido,
@@ -262,7 +264,7 @@ no son las palabras del libro, sino el mismo Cristo,
 quien ha sido enviado al mundo y quien es el evangelio.`"
 También leemos en 2 Corintios: "`Pero si nuestro evangelio está aún encubierto,
 entre los que se pierden está encubierto +++[+++Literalmente,
-'`en los que se pierden está encubierto;`' griego '`en tois`'];
+'`__en los que__ se pierden está encubierto;`' griego '`__en tois__`'];
 en los cuales el dios de este siglo cegó el entendimiento de los incrédulos,
 para que no les resplandezca la luz del evangelio de la gloria de Cristo,
 el cual es la imagen de Dios.
@@ -318,7 +320,7 @@ Este reino, dice Jesús, "`no vendrá con observación; ni dirán: Helo aquí, o
 porque, he aquí, el reino de Dios dentro de vosotros está.`"^
 footnote:[Lucas 17:21 RV1602P]
 Algunos, para favorecer su propósito, deciden leer así estas últimas palabras,
-"`el reino de Dios está entre vosotros.`"
+"`el reino de Dios está __entre__ vosotros.`"
 Pero leerlo de esta manera destruye el contraste
 que nuestro Señor evidentemente quería hacer,
 quien en ese momento estaba respondiendo una pregunta de los fariseos
@@ -329,9 +331,10 @@ y visible (que los hombres podrían señalar con su '`helo
 aquí`' y '`helo allí`') y Su propio dominio interno y espiritual.
 Además, la palabra en el griego original es
 // lint-disable invalid-characters
-"`ἐντός,`" que claramente significa dentro o adentro, y no "`εν`"
-que puede ser interpretado como en o en medio.
+"`ἐντός,`" que claramente significa _dentro_ o _adentro_, y no "`εν`"
+que puede ser interpretado como _en_ o _en medio._
 
+[.alt]
 === Con Respecto al Reino
 
 Si alguno pregunta: '`¿Qué es el reino de los cielos, o de Dios?`' Respondo:
